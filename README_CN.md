@@ -487,6 +487,7 @@ gal restart
 - 📋 [开发手册](./DEVELOPMENT.md) - 开发环境设置和构建说明
 - 🧠 [架构文档](./CLAUDE.md) - 详细的技术架构和开发指南
 - 🧪 [测试说明](./CLAUDE.md#testing-architecture) - 测试架构和运行方式
+- 📖 [Codex App-Server 教学文档](./docs/CODEX_APP_SERVER_TUTORIAL.md) - Codex 功能详细解读与使用场景
 
 ### 自动更新
 

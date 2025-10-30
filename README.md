@@ -481,6 +481,7 @@ gal restart
 - 📋 [Development Guide](./DEVELOPMENT.md) - Development environment setup and build instructions
 - 🧠 [Architecture Guide](./CLAUDE.md) - Detailed technical architecture and development notes
 - 🧪 [Testing Guide](./CLAUDE.md#testing-architecture) - Testing architecture and run instructions
+- 📖 [Codex App-Server Tutorial](./docs/CODEX_APP_SERVER_TUTORIAL.md) - In-depth guide to Codex functionality and usage scenarios (Chinese)
 
 ### Automatic updates
 
